@@ -1,0 +1,11 @@
+{
+    "name": "Conneqtech Build workflow",
+    "description": "Conneqtech Build workflow",
+    "iconName": "example-icon",
+    "categories": [
+        "Dockerfile"
+    ],
+    "filePatterns": [
+        "^Dockerfile$"
+    ]
+}

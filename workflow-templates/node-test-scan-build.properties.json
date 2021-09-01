@@ -1,0 +1,12 @@
+{
+    "name": "Conneqtech Node Test + Scan + Build workflow",
+    "description": "Conneqtech Node Test + Scan + Build workflow",
+    "iconName": "example-icon",
+    "categories": [
+        "JavaScript"
+    ],
+    "filePatterns": [
+        "^package.json$",
+        "^Dockerfile$"
+    ]
+}
